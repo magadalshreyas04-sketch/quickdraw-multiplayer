@@ -1,0 +1,7 @@
+node_modules/
+.npm-cache/
+dist/
+dist-server/
+dist-test/
+work/
+.env
